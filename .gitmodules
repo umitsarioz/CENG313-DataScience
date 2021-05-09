@@ -1,0 +1,3 @@
+[submodule "OccupancyDetection"]
+	path = OccupancyDetection
+	url = https://github.com/umitsarioz/OccupancyDetection.git
